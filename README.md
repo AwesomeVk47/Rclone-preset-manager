@@ -19,5 +19,6 @@ A collection of batch scripts to make using rclone easier along with a preset ma
 
 
 # Please Note
+I have only tried working with google drive.
 This is my first project, plus as a college student I do not have whole lot of time. If there are any problems, i will try to work on it ASAP but do note that my limited knowledge and/or time might delay things for some time. Thanks for understanding.
 

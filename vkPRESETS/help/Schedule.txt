@@ -1,0 +1,43 @@
+HOW TO RUN PRESETS AT SCHEDULE HIDDEN:
+
+1. First create a shortcut with the utility
+
+2. By default it will save in your desktop but you can move it anywhere
+
+3. open "Task Scheduler"
+
+4. on left pane click on "Task Schedular Library"
+
+5. on right pane click "Create Task"
+
+6. A new window will open
+
+7. in "Name" write anything
+
+8. Under "When running the task, use the following account" click "Change User or group"
+
+9. then under "enter object name to select" type "SYSTEM"
+
+10. click "ok"
+
+11. Enable the option saying "Run with highest Privileges"
+
+12. go to "Triggers" tab
+
+13. click "New..."
+
+14. in the new window select your desired condition in which the service will start.
+
+15. Go to the "Actions" tab
+
+16. click "New..."
+
+17. under "Action" dropdown menu select "Start a program"
+
+18. under "Program/script" click "Browse"
+
+19. Now select the shortcut file you just created.
+
+NOTE: FOR LAPTOP USERS NOTE THAT UNDER "Conditions" tab under "Power" there will be three options decide what you want to do with those.
+
+20. Click "ok" to save and exit.

@@ -1,0 +1,52 @@
+GUIDE TO GET GOOGLE CLIENT ID AND CLIENT SECRET:
+
+1. open: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjKhrXFzvrqAhVM4XMBHRCYCAEQFjAAegQIARAC&url=https%3A%2F%2Fconsole.developers.google.com%2F&usg=AOvVaw39ieEDI7pzBj4NtuzqS57M
+
+if for some reaseon it does not load just search google for "Google Developers Console"
+
+2. On top right click "select Project"
+
+3. Then select "new project"
+
+4. Then give it a name and select "create"
+
+5. Reload page
+
+6. again press "select project"
+
+7. now select the option you just created.
+
+8. On left pane click on "library"
+
+9. search for "google drive API" and select it.
+
+10. press "enable"
+
+11. in left pane select "OAuth consent screen"
+
+12. Select "External"
+
+13. Then "create"
+
+14. Under "Application Name" type anything.
+
+15. Scroll to bottom and click "save"
+
+16. On left pane click "Credentials"
+
+17. On the top click "Create Credentials"
+
+18. Then select "OAuth Clint ID"
+
+19. Under "application Type" select "Desktop app"
+
+20. name it whatever you feel like.
+
+21. click "create"
+
+22. Now your "client ID" and "clinet secret" will be revealed.
+
+
+NOTE: ONCE THIS IS DONE THERE IS NO NEED TO REPEAT ALL THIS EVEN IF YOUR PC IS FORMATTED, JUST GO TO "CREDENTIALS" ON LEFT PANE AND THEY SHOULD ALWAYS BE THERE.
+
+For updated info: https://rclone.org/drive/

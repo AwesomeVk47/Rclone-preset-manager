@@ -7,7 +7,7 @@ A collection of batch scripts to make using rclone easier along with a preser ma
 * Easily execute said presets
 * Add multiple tasks in the same preset
 * Create a desktop "shortcut" to execute preset Easily
-* Add the preset to in Windows task scheduler
+* Add the preset to Windows task scheduler (must be done manually).
 
 
 # Requirements
